@@ -1,3 +1,5 @@
+Currently doesn't work. Needs lots of work to make it functional...
+
 *** quickcqlabels ***
 
 What this does: 
